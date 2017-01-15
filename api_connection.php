@@ -1,5 +1,5 @@
 <?php
-
+//coment
 define("access_vk_url", "https://oauth.vk.com/access_token");
 define("id_vk", "dasha_alexandrovna");
 define("app_key", "I033MuWTHceCn12ZouZp");

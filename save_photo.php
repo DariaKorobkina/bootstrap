@@ -35,8 +35,3 @@ function save_photo($photo_src) {
 
 }
     // 1, url1), (2, url2), ....
-
-
-
-
-
